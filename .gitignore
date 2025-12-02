@@ -137,6 +137,7 @@ Thumbs.db
 *.pkl
 *.pickle
 *.joblib
+medibot/
 #data/
 models/
 outputs/
