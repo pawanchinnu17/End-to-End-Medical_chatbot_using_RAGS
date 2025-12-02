@@ -138,6 +138,6 @@ Thumbs.db
 *.pickle
 *.joblib
 medibot/
-#data/
+data/
 models/
 outputs/
