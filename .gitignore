@@ -137,6 +137,6 @@ Thumbs.db
 *.pkl
 *.pickle
 *.joblib
-data/
+#data/
 models/
 outputs/
